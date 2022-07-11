@@ -1,7 +1,7 @@
 [features]
 seeds = false
 [programs.localnet]
-nfpics = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+nfpics = "33dzo1WrFP7udfrHBxkEGDzrTFj3F2w1cMePKjNtsWnr"
 
 [registry]
 url = "https://anchor.projectserum.com"
